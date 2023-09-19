@@ -32,7 +32,7 @@ GIF created with https://getkap.co/
 
 ## Notes
 
-Since I am learning the Swift programming lannguage, I spent good amount of time reading the doccumentation. 
+Since I am learning the Swift programming language, I spent a good amount of time reading the documentation. 
 
 ## License
 
